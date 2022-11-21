@@ -1,0 +1,34 @@
+.dropdown-item:hover {
+    background-color: blue;
+  }
+
+  .navPos {
+    z-index: 10;
+    position: absolute;
+    width: 100%;
+  }
+
+  .soloutions,
+  .quickNav {
+    margin-top: 3%;
+    margin-left: 4%;
+    line-height: 1.5;
+  }
+
+  .tabsText {
+    margin-top: 6%;
+    margin-left: 2%;
+  }
+
+  .soloutionsText {
+    margin-top: 3%;
+    margin-left: 4%;
+  }
+  .collapsable {
+    margin-top: 15%;
+  }
+
+  .testimonials{
+    margin-top: 5%;
+    margin-left: 10%;
+  }
